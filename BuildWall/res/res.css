@@ -1,0 +1,146 @@
+@media screen and (max-width:1120px){
+    
+    
+    .row1{
+        text-align: center;
+        height: 110px;
+    }
+    .row1 a img{
+        margin-top: 10px;
+    }
+    .row1_content ul li{
+        
+        margin: 10px 0 0 0;
+    }
+    .nav a img{
+        margin-right:10px ;
+    }
+    .row2 p{
+        margin: 0 15px 0 15px;
+    }
+    .row5_content p{
+        padding:0 2% ;
+    }
+    
+    .row1_content ul li{
+        padding: 0 2% 0 2%;
+    }
+    
+    .row1_content ul li img{
+        margin-right: 0;
+    }
+    .row7_col{
+        width: 40%;
+        margin-top: 15px;
+    }
+    .row7_col_list{
+        text-align: center;
+    }
+    .row8_content p{
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+   
+    .row10 li {
+        margin-top: 15px;
+    }
+    
+    .footer_col{
+        width: 20%;
+        margin: 0 2% 0 2%;
+        text-align: left;
+    }
+    .footer_col2{
+        width: 40%;
+        margin: 0 2% 0 2%;
+    }
+    .ftr p{
+        margin-left: 15px;
+    }
+    .ftr ul{
+        margin-right: 15px;
+    }
+    .arrow a{
+        padding: 5% 24% 5% 24%
+    }
+   
+    .project_row1 h2{
+        margin-left: 15px;
+    }
+    .project_row1 a{
+        margin-right: 15px;
+    }
+    .about_row2{
+        text-align: center;
+    }
+    .about_row2_content img{
+        float: none;
+    }
+    .about_row2_text{
+        width: 100%;
+    }
+    .about_row6 h3{
+        margin-left: 10px;
+    }
+    .about_row6 h4{
+        margin:10px 0 15px 10px;
+        
+    }
+    .about_row7 p{
+        margin: 0 10px 0 10px;
+    }
+    .project_row2 p{
+        margin:30px 10px 0 10px;
+    }
+    .footer_list2 li a{
+        padding: 22% 0 3% 35%
+    }
+    .service_shadow{
+        height: 42%;
+    }
+   
+}
+@media screen and (max-width:990px){
+    .nav a img{
+        margin: 50px 20px 0 0;
+    }
+    .row11{
+        top: -51%;
+       
+        
+    }
+    .row11_col{
+        width: 40%;
+        margin-top: 7px;
+    }
+    .footer_content{
+        margin-top: 99px;
+    }
+    .arrow a {
+        padding: 5% 20% 5% 20%;
+      }
+      .about_row2_content p{
+        margin: 27px 10px 0 10px;
+      }
+      .about_row4_col{
+        width: 40%;
+      }
+      .icon_circle{
+        height: 70%;
+      }
+      .about_row6{
+        text-align: center;
+      }
+      .about_row8_col{
+        width: 30%;
+      }
+      .project_row5{
+        height: 115px;
+      }
+      .project_row5 li{
+        margin-top: 10px;
+      }
+      .service_shadow{
+        height: 48%;
+      }
+}
